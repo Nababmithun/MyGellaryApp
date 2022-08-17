@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\MyGellaryApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_photo.xml",
+        "source": "C:\\Users\\HP\\Desktop\\MyGellaryApp\\app\\src\\main\\res\\layout\\item_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\MyGellaryApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_gallery.xml",
+        "source": "C:\\Users\\HP\\Desktop\\MyGellaryApp\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\MyGellaryApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\HP\\Desktop\\MyGellaryApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\MyGellaryApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_details.xml",
+        "source": "C:\\Users\\HP\\Desktop\\MyGellaryApp\\app\\src\\main\\res\\layout\\fragment_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\MyGellaryApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\bottom_sheet_loading.xml",
+        "source": "C:\\Users\\HP\\Desktop\\MyGellaryApp\\app\\src\\main\\res\\layout\\bottom_sheet_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\MyGellaryApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\footer_photo_load_state.xml",
+        "source": "C:\\Users\\HP\\Desktop\\MyGellaryApp\\app\\src\\main\\res\\layout\\footer_photo_load_state.xml"
+    }
+]

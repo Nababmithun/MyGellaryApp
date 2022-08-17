@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: dev.shreyaspatil.MaterialDialog:MaterialDialog:2.2.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/756f4bc6f232c3b886cdf5369a6029fc/jetified-MaterialDialog-2.2.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/756f4bc6f232c3b886cdf5369a6029fc/jetified-MaterialDialog-2.2.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/756f4bc6f232c3b886cdf5369a6029fc/jetified-MaterialDialog-2.2.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.shreyaspatil.MaterialDialog/MaterialDialog/2.2.2/bded89b39b61340ef5602fb4996cc98e327ca1a9/MaterialDialog-2.2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.shreyaspatil.MaterialDialog/MaterialDialog/2.2.2/90bb1ed02f70b688853f5d66ebe8a86615f573a9/MaterialDialog-2.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

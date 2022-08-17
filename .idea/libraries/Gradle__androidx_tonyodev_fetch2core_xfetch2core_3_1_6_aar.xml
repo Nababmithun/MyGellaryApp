@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.tonyodev.fetch2core:xfetch2core:3.1.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e33f3998b50cccc9b3c43cc6debc54fb/jetified-xfetch2core-3.1.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e33f3998b50cccc9b3c43cc6debc54fb/jetified-xfetch2core-3.1.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e33f3998b50cccc9b3c43cc6debc54fb/jetified-xfetch2core-3.1.6/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.tonyodev.fetch2core/xfetch2core/3.1.6/f1658974a9828cb6749274874dbdf9fc6c371ecb/xfetch2core-3.1.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.tonyodev.fetch2core/xfetch2core/3.1.6/e33ea31f8b7eb9dab39d065786f63c1e256657f7/xfetch2core-3.1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

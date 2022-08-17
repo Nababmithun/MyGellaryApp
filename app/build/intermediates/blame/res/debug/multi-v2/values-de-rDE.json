@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\HP\\Desktop\\MyGellaryApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-de-rDE\\values-de-rDE.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\faf3043c0b385e07f35bdcd445ac3442\\jetified-storage-2.2.4\\res\\values-de-rDE\\values-de-rDE.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,120,186,250,308,365",
+                        "endColumns": "64,65,63,57,56,89",
+                        "endOffsets": "115,181,245,303,360,450"
+                    },
+                    "to": {
+                        "startLines": "6,7,9,12,13,17",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "293,358,470,630,688,877",
+                        "endColumns": "64,65,63,57,56,89",
+                        "endOffsets": "353,419,529,683,740,962"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\abccdfa575d73d664f773b047d0d3684\\jetified-core-2.2.4\\res\\values-de-rDE\\values-de-rDE.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,97,170,241,293,339,386,435,476,518",
+                        "endColumns": "41,72,70,51,45,46,48,40,41,48",
+                        "endOffsets": "92,165,236,288,334,381,430,471,513,562"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,8,10,11,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,97,170,241,424,534,581,745,786,828",
+                        "endColumns": "41,72,70,51,45,46,48,40,41,48",
+                        "endOffsets": "92,165,236,288,465,576,625,781,823,872"
+                    }
+                }
+            ]
+        }
+    ]
+}

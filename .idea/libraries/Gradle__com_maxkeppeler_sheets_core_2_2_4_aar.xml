@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.maxkeppeler.sheets:core:2.2.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/abccdfa575d73d664f773b047d0d3684/jetified-core-2.2.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/abccdfa575d73d664f773b047d0d3684/jetified-core-2.2.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/abccdfa575d73d664f773b047d0d3684/jetified-core-2.2.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

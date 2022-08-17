@@ -1,0 +1,123 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.myphotoloaderapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml:6:5-67
+11-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml:7:5-79
+12-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml:7:22-76
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml:8:5-80
+13-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml:8:22-77
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml:9:5-10:40
+14-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml:9:22-78
+15    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+15-->[androidx.tonyodev.fetch2:xfetch2:3.1.6] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\f160c74064dbd505859c56d9dc30b258\jetified-xfetch2-3.1.6\AndroidManifest.xml:12:5-76
+15-->[androidx.tonyodev.fetch2:xfetch2:3.1.6] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\f160c74064dbd505859c56d9dc30b258\jetified-xfetch2-3.1.6\AndroidManifest.xml:12:22-73
+16
+17    <application
+17-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml:12:5-48:19
+18        android:name="com.example.myphotoloaderapp.MyApp"
+18-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml:13:9-30
+19        android:allowBackup="true"
+19-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml:14:9-35
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.4.0-alpha01] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\491d7dec4a4f2207313cc3651084ac20\core-1.4.0-alpha01\AndroidManifest.xml:24:18-86
+21        android:debuggable="true"
+22        android:icon="@mipmap/ic_launcher"
+22-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml:15:9-43
+23        android:label="@string/app_name"
+23-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml:16:9-41
+24        android:requestLegacyExternalStorage="true"
+24-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml:17:9-52
+25        android:roundIcon="@mipmap/ic_launcher_round"
+25-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml:18:9-54
+26        android:supportsRtl="true"
+26-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml:19:9-35
+27        android:testOnly="true"
+28        android:theme="@style/AppTheme" >
+28-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml:20:9-40
+29        <activity android:name="com.example.myphotoloaderapp.MainActivity" >
+29-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml:21:9-27:20
+29-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml:21:19-47
+30            <intent-filter>
+30-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml:22:13-26:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml:23:17-69
+31-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml:23:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml:25:17-77
+33-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml:25:27-74
+34            </intent-filter>
+35        </activity>
+36
+37        <!-- File Picker -->
+38        <provider
+39            android:name="androidx.core.content.FileProvider"
+39-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml:31:13-62
+40            android:authorities="com.example.myphotoloaderapp.provider"
+40-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml:32:13-60
+41            android:exported="false"
+41-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml:33:13-37
+42            android:grantUriPermissions="true" >
+42-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml:34:13-47
+43            <meta-data
+43-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml:35:13-37:62
+44                android:name="android.support.FILE_PROVIDER_PATHS"
+44-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml:36:17-67
+45                android:resource="@xml/nnf_provider_paths" />
+45-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml:37:17-59
+46        </provider>
+47
+48        <activity
+48-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml:39:9-47:20
+49            android:name="com.nononsenseapps.filepicker.FilePickerActivity"
+49-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml:40:13-76
+50            android:label="@string/app_name"
+50-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml:41:13-45
+51            android:theme="@style/FilePickerTheme" >
+51-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml:42:13-51
+52            <intent-filter>
+52-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml:43:13-46:29
+53                <action android:name="android.intent.action.GET_CONTENT" />
+53-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml:44:17-76
+53-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml:44:25-73
+54
+55                <category android:name="android.intent.category.DEFAULT" />
+55-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml:45:17-76
+55-->C:\Users\HP\Desktop\MyGellaryApp\app\src\main\AndroidManifest.xml:45:27-73
+56            </intent-filter>
+57        </activity>
+58
+59        <provider
+59-->[com.squareup.picasso:picasso:2.71828] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c3cfa87ce7581027777b10368493e7ad\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+60            android:name="com.squareup.picasso.PicassoProvider"
+60-->[com.squareup.picasso:picasso:2.71828] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c3cfa87ce7581027777b10368493e7ad\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+61            android:authorities="com.example.myphotoloaderapp.com.squareup.picasso"
+61-->[com.squareup.picasso:picasso:2.71828] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c3cfa87ce7581027777b10368493e7ad\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+62            android:exported="false" />
+62-->[com.squareup.picasso:picasso:2.71828] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c3cfa87ce7581027777b10368493e7ad\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+63
+64        <service
+64-->[androidx.room:room-runtime:2.2.6] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\54a5cc99cbe8489813c0d09bb89e0bd3\room-runtime-2.2.6\AndroidManifest.xml:25:9-28:40
+65            android:name="androidx.room.MultiInstanceInvalidationService"
+65-->[androidx.room:room-runtime:2.2.6] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\54a5cc99cbe8489813c0d09bb89e0bd3\room-runtime-2.2.6\AndroidManifest.xml:26:13-74
+66            android:directBootAware="true"
+66-->[androidx.room:room-runtime:2.2.6] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\54a5cc99cbe8489813c0d09bb89e0bd3\room-runtime-2.2.6\AndroidManifest.xml:27:13-43
+67            android:exported="false" />
+67-->[androidx.room:room-runtime:2.2.6] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\54a5cc99cbe8489813c0d09bb89e0bd3\room-runtime-2.2.6\AndroidManifest.xml:28:13-37
+68    </application>
+69
+70</manifest>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.stfalcon-studio:StfalconImageViewer:d11578fe3f@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2d9832e5439d5d352e0f4a2087220999/jetified-StfalconImageViewer-d11578fe3f/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2d9832e5439d5d352e0f4a2087220999/jetified-StfalconImageViewer-d11578fe3f/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2d9832e5439d5d352e0f4a2087220999/jetified-StfalconImageViewer-d11578fe3f/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.stfalcon-studio/StfalconImageViewer/d11578fe3f/e8eb92feaabd8ad03abb8b71879eb92dbb958d74/StfalconImageViewer-d11578fe3f-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.stfalcon-studio/StfalconImageViewer/d11578fe3f/7bdb38187c9be91f1d2904cb3b95d2fc823a654d/StfalconImageViewer-d11578fe3f-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
